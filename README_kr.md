@@ -1,3 +1,5 @@
+![rv_flipbook_read_node](https://github.com/user-attachments/assets/69a289ca-1303-4ae1-a445-b4daab114853)
+
 ## 📔설명
 이 파이썬 코드는 기존 https://learn.foundry.com/nuke/developers/63/pythondevguide/flipbook.html 
 
@@ -50,8 +52,13 @@ except Exception as e:
 Read 노드를 선택한 상태로 Alt+F를 누르시고, Flipbook 창에서 RV를 선택 후 OK를 누르면 RV가 flipbook모드로 실행되며 작동합니다.
 
 Tip : 작업한 컴프를 확인하려면 미리 렌더를 하고 사용을 하는 것이 좋습니다.
+<br> Read 노드를 제외한 다른 노드에서 사용해도 되지만 **캐싱시간이** 소요됩니다.
+### 캐싱시간예시
+![rv_flipbook_other](https://github.com/user-attachments/assets/748de9db-b57b-45a7-a922-8f164adb4f9a)
+<br> 다음과 같이 캐싱시간이 걸리게됩니다.
 
-### 🕷️버그 리포트
+
+## 🕷️버그 리포트
 만약 사용중 버그나 작동하지 않는 부분이 있다면
 <br> 사용하고 계신 누크, 윈도우의 버전과 함께
 <br> gihan.kim.vfx@gmail.com으로 연락 부탁드립니다.
