@@ -24,9 +24,9 @@ except Exception as e:
 <br> 참조 링크 : https://www.computerhope.com/issues/ch000549.htm
 4. 시스템 변수의 Path 항목에 다음과 같은 경로를 추가합니다. <br>
 `C:\Program Files\Shotgun\RV-7.1.1\bin`
-<br>중요 : 위의 경로는 현재 아티스트(당신)의 컴퓨터에 설치된 RV의 경로를 뜻합니다.
+<br>중요 : 위의 경로는 현재 아티스트의 컴퓨터에 설치된 RV의 경로를 뜻합니다.
 
-만약 Open RV를 사용하거나 다른 버전의 RV를 사용하신다면 설치된 경로로 변경하셔야 작동합니다.
+만약 Open RV를 사용하거나 다른 버전의 RV를 사용하신다면 설치된 경로로 변경하셔야 합니다.
 
 ## ⚠️중요사항
 만약 설치된 RV의 버전이 다르거나 설치된 경로가 다르다면 반드시
@@ -47,7 +47,7 @@ except Exception as e:
 <br>혹은 테스트가 되지않은 환경 (예: nuke 13이하 버전)에서는 동작하지 않을 수 있습니다.
 
 ## ☀️사용방법
-Read 노드를 선택한 상태로 Alt+F를 누르면 Flipbook 창에서 RV를 선택 후 OK를 누르면 RV가 flipbook모드로 실행되며 작동합니다.
+Read 노드를 선택한 상태로 Alt+F를 누르시고, Flipbook 창에서 RV를 선택 후 OK를 누르면 RV가 flipbook모드로 실행되며 작동합니다.
 
 Tip : 작업한 컴프를 확인하려면 미리 렌더를 하고 사용을 하는 것이 좋습니다.
 
