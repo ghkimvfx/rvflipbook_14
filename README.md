@@ -59,7 +59,7 @@ Tip: To check the comp you worked on, it is recommended to render it in advance 
 ![rv_flipbook_other](https://github.com/user-attachments/assets/748de9db-b57b-45a7-a922-8f164adb4f9a)
 <br> As shown in the image above, caching time is required.
 ## 🕷️Bug report
-If you encounter any bugs or parts that do not work while using it, please contact us at the email address below along with the version of Nook and Windows you are using.
+If you encounter any bugs or parts that do not work while using it, please contact us at the email address below along with the version of Nuke and Windows you are using.
 
 gihan.kim.vfx@gmail.com
 
