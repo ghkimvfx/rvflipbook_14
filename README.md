@@ -1,6 +1,6 @@
 [Kor Description, 한국어설명](https://github.com/ghkimvfx/rvflipbook_14/blob/master/README_kr.md)
 
-![ezgif-79c48a9c5b6186](https://github.com/user-attachments/assets/19d58cce-017e-4d14-9c7e-a4973b399bb1)
+![rv_flipbook_read_node](https://github.com/user-attachments/assets/69a289ca-1303-4ae1-a445-b4daab114853)
 ## 📔Description
 This Python code is based on the existing 
 
@@ -54,8 +54,11 @@ to the correct path.
 With the Read node selected, press Alt+F, select RV in the Flipbook window, and then press OK. RV will run in flipbook mode and work.
 
 Tip: To check the comp you worked on, it is recommended to render it in advance and use it.
-
-### 🕷️Bug report
+<br> You can use it on nodes other than the Read node, but it will take **caching time**.
+### Example of caching time
+![rv_flipbook_other](https://github.com/user-attachments/assets/748de9db-b57b-45a7-a922-8f164adb4f9a)
+<br> As shown in the image above, caching time is required.
+## 🕷️Bug report
 If you encounter any bugs or parts that do not work while using it, please contact us at the email address below along with the version of Nook and Windows you are using.
 
 gihan.kim.vfx@gmail.com
